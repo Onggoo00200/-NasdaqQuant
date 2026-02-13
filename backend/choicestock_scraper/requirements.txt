@@ -1,0 +1,11 @@
+streamlit
+pandas
+selenium
+webdriver-manager
+beautifulsoup4
+openpyxl
+lxml
+finance-datareader
+deep-translator
+streamlit-searchbox
+plotly

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+fastapi-cors
+requests
+beautifulsoup4
+pandas
+openpyxl
+selenium
+webdriver-manager
+lxml
+numpy

@@ -1,0 +1,51 @@
+{
+  "NVDA": {
+    "strategy": "LarryWilliamsVBO",
+    "params": {
+      "k": 0.6
+    },
+    "cagr": 0.3708007550459784,
+    "mdd": -0.1863355970571941,
+    "score": 2.9702220027983977,
+    "updated_at": "2026-02-10 23:35:36"
+  },
+  "TSLA": {
+    "strategy": "LarryWilliamsVBO",
+    "params": {
+      "k": 0.6
+    },
+    "cagr": 0.40345564719483984,
+    "mdd": -0.2986008449152771,
+    "total_return": 1.759240201135158,
+    "num_trades": 196,
+    "status": "success",
+    "score": 2.5292420130038655,
+    "updated_at": "2026-02-12 04:03:38"
+  },
+  "TSM": {
+    "strategy": "LarryWilliamsVBO",
+    "params": {
+      "k": 0.6
+    },
+    "cagr": 0.19076406833550186,
+    "mdd": -0.19705381284382067,
+    "total_return": 0.6867925733025577,
+    "num_trades": 188,
+    "status": "success",
+    "score": 2.2485893461972286,
+    "updated_at": "2026-02-12 04:16:11"
+  },
+  "ALAB": {
+    "strategy": "LarryWilliamsVBO",
+    "params": {
+      "k": 0.6
+    },
+    "cagr": -0.13193027056530215,
+    "mdd": -0.4537827371024173,
+    "total_return": -0.23556962636094902,
+    "num_trades": 108,
+    "status": "success",
+    "score": 1.2011252591929495,
+    "updated_at": "2026-02-12 05:43:50"
+  }
+}
